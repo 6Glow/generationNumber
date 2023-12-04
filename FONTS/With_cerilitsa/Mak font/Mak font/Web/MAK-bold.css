@@ -1,0 +1,11 @@
+/* Webfont: Mak-Bold */@font-face {
+    font-family: 'Mak';
+    src: url('MAK-bold.eot'); /* IE9 Compat Modes */
+    src: url('MAK-bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('MAK-bold.woff') format('woff'), /* Modern Browsers */
+         url('MAK-bold.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

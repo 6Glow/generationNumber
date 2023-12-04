@@ -1,0 +1,11 @@
+/* Webfont: Mak-Light */@font-face {
+    font-family: 'MakLight';
+    src: url('MAK.eot'); /* IE9 Compat Modes */
+    src: url('MAK.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('MAK.woff') format('woff'), /* Modern Browsers */
+         url('MAK.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
